@@ -1,0 +1,6 @@
+{
+  "name": "CineVeo AI Studio - Script-to-Video Engine",
+  "description": "AI video generation studio inspired by Veo & Omni. Analyzes scripts and automatically splits sequences into dynamic clips (up to 15s each) in 3D Pixar, 2D Anime, Vintage B&W, and Hollywood Cinema styles with real dialogues and HD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
